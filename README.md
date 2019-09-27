@@ -4,9 +4,13 @@ Use of forward and inverse kinematics using CCD and Jacobian methods. Oriented f
 Built on Unity3D Version 2019.2.6f1
 
 Q: Why does this exist ?
+
 A: While there are certainly many approaches in achieving kinematics, forward and inverse with additionally more methods, I want to make the actual practical code of implementing these approahces public. This does not mean I'm here to do your homework, instead, I hope this will help you understand the basics, I'm confident, no I'm sure!, that my coding has lots of issues, please feel free to improve upon it. 
 
+
 < TO BE CONTINUED >
+
+If this was helpful, please consider acknowledging appropriately. 
 
 ********************************************************** LICENSE **********************************************************
 Copyright (c) <2019> <Eleftherios Triantafyllidis>
@@ -29,3 +33,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ***************************************************************************************************************************** 
+
