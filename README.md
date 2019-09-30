@@ -12,7 +12,7 @@ A: While there are certainly many approaches in achieving kinematics, forward an
 
 If this was helpful, please consider acknowledging appropriately. 
 
-**************** LICENSE ****************
+*****************************************
 Copyright (c) 2019 Eleftherios Triantafyllidis
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
